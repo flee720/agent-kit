@@ -1,0 +1,17 @@
+{
+  "name": "agent-kit",
+  "owner": {
+    "name": "flee720"
+  },
+  "metadata": {
+    "description": "One shared agent workflow for every repo: verify changes by using the app, keep code lean, ship with independent review, fix production errors on call."
+  },
+  "plugins": [
+    {
+      "name": "kit",
+      "source": "./plugins/kit",
+      "description": "ticket, quality-pass, ship, on-call and onboard-repo skills, plus a vendored thermo-nuclear review.",
+      "category": "productivity"
+    }
+  ]
+}
