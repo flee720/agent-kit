@@ -1,0 +1,8 @@
+{
+  "name": "kit",
+  "version": "0.1.0",
+  "description": "Shared agent workflow: write a ticket, verify by driving the real app, cut bloat, get independent reviews, ship by risk tier, and fix production errors on call.",
+  "author": {
+    "name": "flee720"
+  }
+}
